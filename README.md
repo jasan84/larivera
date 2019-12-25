@@ -1,6 +1,6 @@
 # larivera
 
-<b>Segundo proyecto personal. Abril-2019.</b>
+<b>Segundo proyecto personal. Abr-2019.</b>
 
 Catálogo de artículos para distribuidora de artículos de limpieza, con ilustraciones y detalle de los productos separados por categorías.
 
