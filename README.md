@@ -6,4 +6,4 @@ Catálogo de artículos para distribuidora de artículos de limpieza, con ilustr
 
 <hr/>
 
-Escrito en HTML5 con hoja de estilos CSS3. Las imágenes ilustrativas fueron editadas con GIMP e Ink Scape.
+Escrito en HTML5 con hoja de estilos CSS3. Las imágenes ilustrativas fueron editadas con GIMP e Inkscape.
